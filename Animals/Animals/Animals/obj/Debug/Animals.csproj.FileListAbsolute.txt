@@ -1,0 +1,14 @@
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.Properties.Resources.resources
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.csproj.GenerateResource.cache
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Animals\Animals\bin\Debug\Animals.exe.config
+D:\aaa\testt\Animals\Animals\bin\Debug\Animals.exe
+D:\aaa\testt\Animals\Animals\bin\Debug\Animals.pdb
+D:\aaa\testt\Animals\Animals\bin\Debug\EntityFramework.dll
+D:\aaa\testt\Animals\Animals\bin\Debug\EntityFramework.SqlServer.dll
+D:\aaa\testt\Animals\Animals\bin\Debug\EntityFramework.xml
+D:\aaa\testt\Animals\Animals\bin\Debug\EntityFramework.SqlServer.xml
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.csproj.Up2Date
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.exe
+D:\aaa\testt\Animals\Animals\obj\Debug\Animals.pdb
